@@ -3,3 +3,5 @@ Specifications list
 
 Implemented task 2
 Completed task 2
+
+Found something about task 4
