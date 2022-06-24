@@ -1,2 +1,4 @@
 Specifications list
 4GB RAM
+
+Implemented task 2
